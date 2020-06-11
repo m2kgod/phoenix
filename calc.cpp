@@ -103,6 +103,10 @@ int main()
     {
         fact();
     }
+    else if(re==15)
+    {
+        exit(0);
+    }
     else
     {
         cout<<"\n Invalid option"<<endl;
