@@ -329,7 +329,7 @@ void add()
     cout<<" Enter two numbers :";
     cin>>a>>b;
     sum=a+b;
-    cout<<"Sum ="<<a<<"+"<<b<<sum
+    cout<<"Sum ="<<a<<"+"<<b<<sum;
 }
 void subtract()
 {
